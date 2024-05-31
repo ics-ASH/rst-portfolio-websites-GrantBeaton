@@ -1,0 +1,93 @@
+
+body {
+  background-image: url("https://wallpapercave.com/wp/wp4469578.jpg");
+}
+     h1{
+    font-family: "Courier", sans-serif;
+    font-style: normal;
+    color: #db6815;
+      font-size: 50px;
+      font-weight: bold;
+      text-shadow: 2px 2px black;
+  }
+  
+   h2{
+  font-family: 'Courier', cursive;
+  color: #ffffff;
+  font-size: 30px;
+  font-weight: bold;
+  text-shadow: 2px 2px black;
+}
+h3{
+  font-family: 'Courier', cursive;
+  color: #ffffff;
+  font-size: 25px;
+  font-weight: bold;
+  text-shadow: 2px 2px black;
+}
+
+h4{
+  font-family: 'Courier', cursive;
+  color: #ffffff;
+  font-size: 20px;
+  font-weight: bold;
+  text-shadow: 2px 2px black;
+}
+
+h5{
+  font-family: 'Courier', cursive;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: bold;
+  text-shadow: 2px 2px black;
+}
+
+h6{
+  font-family: 'Courier', cursive;
+  color: #ffffff;
+  font-size: 10px;
+  font-weight: bold;
+  text-shadow: 2px 2px black;
+}
+
+#pictures {
+  width: 100%;
+  border: 10px solid rgb(0, 0, 255);
+  border-radius: 20px;
+  text-shadow: 2px 2px black;
+}
+
+table {
+  font-family: Courier, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 5px solid blue;
+  text-align: center;
+  padding: 5px;
+}
+
+a:link, a:visited {
+  background-color: white;
+  color: red;
+  border: 4px solid red;
+  padding: 10px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: red;
+  color: white;
+  border: 4px solid lred;
+}
+
+li{
+  color: red;
+  font-size: 50px;
+  font-weight: bold;
+  text-shadow: 2px 2px black;
+}
