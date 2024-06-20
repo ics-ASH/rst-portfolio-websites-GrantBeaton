@@ -1,3 +1,5 @@
+//Greeter program that starts based off of the user clicking buttons on the front end
+
 function greeter() {
     let name = prompt("What's your name?");
     document.getElementById("greet").innerHTML =
