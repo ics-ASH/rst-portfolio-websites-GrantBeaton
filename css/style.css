@@ -53,8 +53,7 @@ h6{
 }
 
 #pictures {
-  width: 100%;
-  border: 10px solid rgb(0, 0, 255);
+  border: 10px solid red;
   border-radius: 20px;
   text-shadow: 2px 2px black;
 }
